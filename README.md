@@ -9,7 +9,7 @@
 </div>
 
 - Hello there!
-- Currently working as a frontend developer at [Lunasoft](https://lunasoft.co.kr) in Seoul, Korea.
+- Currently working as a frontend developer at [soldout](https://www.soldout.co.kr/) in Seoul, Korea.
 - Studied software engineering at [Flatiron School London](https://flatironschool.com/).
-- Expert in React, Angular, SCSS and open to any other frontend skillsets!
+- Expert in React, Vue, SCSS and open to any other frontend skillsets!
 
