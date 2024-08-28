@@ -9,7 +9,8 @@
 </div>
 
 - Hello there!
-- Currently working as a frontend developer at [soldout](https://www.soldout.co.kr/) in Seoul, Korea.
+- Worked as a frontend developer at [soldout](https://www.soldout.co.kr/) in Seoul, Korea.
 - Studied software engineering at [Flatiron School London](https://flatironschool.com/).
-- Expert in React, Vue, SCSS and open to any other frontend skillsets!
+- Expert in Next.js, React, Vue, SCSS and open to any other frontend skillsets!
+- Love to explore and learn new things 🤩
 
