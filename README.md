@@ -11,6 +11,6 @@
 - Hello there!
 - Worked as a frontend developer at [soldout](https://www.soldout.co.kr/) in Seoul, Korea.
 - Studied software engineering at [Flatiron School London](https://flatironschool.com/).
-- Expert in Next.js, React, Vue, SCSS and open to any other frontend skillsets!
-- Love to explore and learn new things 🤩
+- 4 years experienced in Next.js, React, Vue, SCSS and any other frontend skillsets!
+- Love to explore and learn new things 😊
 
